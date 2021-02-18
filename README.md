@@ -9,8 +9,6 @@ Dosen Pembimbing :
 
 Focusing on :
 
-- https://kotlinlang.org
+- Kotlin
 
-
-ExpressJs
 Sub Materi Express Js :
