@@ -4,8 +4,8 @@ Pembuatan modul Android Kotlin ini diharapkan bisa meningkatkan sumber daya manu
 # Repositori Pembuatan Modul Backend
 Dosen Pembimbing :
 
--Kamil Malik, M.Kom
--Gulpi Qorik Oktagalu Pratamasunu, M.Kom
+- Kamil Malik, M.Kom
+- Gulpi Qorik Oktagalu Pratamasunu, M.Kom
 
 Focusing on :
 
